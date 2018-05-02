@@ -15,3 +15,5 @@ Nothing here, yet!
 - CLI tool that tells you the time in the given location
 - A calculator
 - Web scraper
+- Alarm clock
+- Pomodoro
