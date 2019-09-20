@@ -1,0 +1,16 @@
+{
+  "name": "ext",
+  "version": "1.0.0",
+  "description": "Pass in a file, get the extension of a file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "varjmes",
+    "extension",
+    "file",
+    "fs"
+  ],
+  "author": "James Spencer <hello@jmes.tech>"
+}
