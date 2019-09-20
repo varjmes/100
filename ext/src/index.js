@@ -1,7 +1,7 @@
 'use strict'
 
-const ext = () => {
-  return 'eggs'
+const ext = (filename) => {
+  if (!filename) return ""
 }
 
 module.exports = ext

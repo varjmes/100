@@ -4,7 +4,9 @@
   "description": "Pass in a file, get the extension of a file.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:c": "jest --coverage",
+    "test:w": "jest --watch"
   },
   "keywords": [
     "varjmes",
