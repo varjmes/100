@@ -12,5 +12,8 @@
     "file",
     "fs"
   ],
-  "author": "James Spencer <hello@jmes.tech>"
+  "author": "James Spencer <hello@jmes.tech>",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
