@@ -8,7 +8,7 @@
 
 ## Completed Projects
 
-Nothing here, yet!
+- [ext](./ext): given filenames, return their extensions
 
 ## Project Ideas
 
